@@ -8,9 +8,11 @@
 
 ---
 
+![Demo](pic.gif)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiyxx/jiyxx/main/coding.gif" alt="Coding GIF" width="600"/>
+  <img src="pic.gif" alt="Demo" width="600"/>
 </p>
+
 
 
 ### 📫 Connect with me  
