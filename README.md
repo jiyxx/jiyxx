@@ -8,6 +8,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jiyxx/jiyxx/main/coding.gif" alt="Coding GIF" width="600"/>
+</p>
+
+
 ### 📫 Connect with me  
 <a href="shuklajiya04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
