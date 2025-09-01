@@ -9,9 +9,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://pin.it/DPWA4kb1i" alt="Demo" width="600"/>
-</p>
 
 
 
