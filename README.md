@@ -4,12 +4,14 @@
 
 - 🎓 Currently in my **3rd year (B.Tech)**  
 - 💻 Working on improving my **Frontend Development skills**  
-- ⚛️ Learning **React.js**  
+- ⚛️ Learning **React.js**
+  
+#
 
----
+ <h3 align ="left"> 📫 Connect with me  </h3> 
 
 
-### 📫 Connect with me  
+
 <a href="shuklajiya04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -17,18 +19,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
----
+#
 
-
-<div align="left">
-  </div>
- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<div align = "right">
-  <img width=390 src="https://streak-stats.demolab.com/?user=jiyxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
----
+<h2 align="center">⚡ Current Statistics ⚡</h2>
+<div align="center">
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=360 src="https://streak-stats.demolab.com/?user=jiyxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+</div>  
+  
+#
 
 ### 🚀 Languages & Tools  
 <div align="left">
