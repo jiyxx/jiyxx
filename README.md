@@ -4,7 +4,7 @@
 
 - 🎓 Currently in my **3rd year (B.Tech)**  
 - 💻 Working on improving my **Frontend Development skills**  
-- ⚛️ Learning **React.js**
+- ⚛️ Developing Projects using **React.js**
   
 #
 
@@ -48,3 +48,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  /
 </div>
 
+#
+
+<img src="https://raw.githubusercontent.com/jiyxx/jiyxx/output/snake.svg" alt="Snake animation" />
