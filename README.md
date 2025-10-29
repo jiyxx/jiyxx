@@ -24,7 +24,7 @@
 <h2 align="center">⚡ Current Statistics ⚡</h2>
 <div align="center">
    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=360 src="https://streak-stats.demolab.com/?user=jiyxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyxx&layout=compact&theme=material-palenight&hide_border=true&langs_count=5" height="150"
 </div>  
   
 #
